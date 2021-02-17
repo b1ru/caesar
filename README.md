@@ -1,5 +1,3 @@
-# caesar
-
 ## What is this
 - The caesar cipher is one of the simplest and oldest ciphers.
 - It just shifts the message by *N* places.
