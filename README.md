@@ -6,7 +6,7 @@
 ## How to use
 - ```python caesar.py <flag> <N>```
   - Shift flag by N places.
-  - *N* can be positive -right shift- or negative -left shitft-.
+  - *N* can be positive (right shift) or negative (left shitft).
 - ```python caesar.py <flag>```
   - Print all 26 rotations.
 
