@@ -4,10 +4,10 @@
 - This is a simple implementation of the caesar cipher using python.
 
 ## How to use
-- ```python caesar.py <flag> <N>```
+- ```python caesar.py <text> <N>```
   - Shift flag by N places.
   - *N* can be positive (right shift) or negative (left shitft).
-- ```python caesar.py <flag>```
+- ```python caesar.py <text>```
   - Print all 26 rotations.
 
 ## References
