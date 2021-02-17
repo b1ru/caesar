@@ -7,7 +7,7 @@
 - ```python caesar.py <flag> <N>```
   - Shift flag by N places.
 - ```python caesar.py <flag>```
-  - Print all 26 shifts.
+  - Print all 26 rotations.
 
 ## References
 - https://privacycanada.net/classical-encryption/caesar-cipher/
